@@ -20,6 +20,6 @@
     "lodash": "^4.17.11",
     "omelette": "^0.4.12",
     "prettier": "^1.16.1",
-    "simple-git": "^1.107.0"
+    "simple-git": "^3.5.0"
   }
 }
